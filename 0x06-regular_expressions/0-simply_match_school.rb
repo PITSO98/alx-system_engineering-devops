@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/School/
+/School/.match?(ARGV[0])
